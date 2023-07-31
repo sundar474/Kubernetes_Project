@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T06:01:33.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" version="21.3.4" etag="CPDIVjaweHH9pORJJrEi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T17:55:59.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="VUFdRKBKZHmQegp9r0_Y" version="21.6.6" type="github">
   <diagram name="Page-1" id="hyXjRzs7N0lxaYraACow">
-    <mxGraphModel>
+    <mxGraphModel dx="979" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-1" target="axP9Mo-XlqDcnkRnVebZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-1" value="Git&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-2" target="axP9Mo-XlqDcnkRnVebZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-2" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-4" target="axP9Mo-XlqDcnkRnVebZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-4" value="Jenkins&lt;br&gt;Java&lt;br&gt;Git&lt;br&gt;Maven" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="264" y="335" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-6" value="SonarQube" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="414" y="346.25" as="sourcePoint" />
+            <mxPoint x="500" y="343.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="346.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-8" target="axP9Mo-XlqDcnkRnVebZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-8" value="Nexus&lt;br&gt;Jar, War" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="414" y="416.25" as="sourcePoint" />
+            <mxPoint x="500" y="413.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="416.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="414" y="472.5" as="sourcePoint" />
+            <mxPoint x="500" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="472.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-12" value="Docker&lt;br&gt;Jenkins user&lt;br&gt;Dockerfile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-14" value="Docker&lt;br&gt;Kubernetes&lt;br&gt;yaml" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="610" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="660" as="sourcePoint" />
+            <mxPoint x="340" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-19" value="Dockerfile&lt;br&gt;Java&lt;br&gt;Baseimage - tomcat-nginx- alpine&lt;br&gt;copy : War&lt;br&gt;Softwares&lt;br&gt;Dependencies&lt;br&gt;Docker build -t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-20" value="Dockerfile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="axP9Mo-XlqDcnkRnVebZ-21" target="axP9Mo-XlqDcnkRnVebZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-21" value="Docker Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-22" value="Build" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-23" value="Docker container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-24" value="Run" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-25" value="Dockerhub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axP9Mo-XlqDcnkRnVebZ-27" value="ECR&lt;br&gt;Nexus docker Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
